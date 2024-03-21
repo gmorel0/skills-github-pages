@@ -1,4 +1,5 @@
 theme: minima
+email: "example@mail.com"
 defaults:
   - scope:
       path: "_posts"
