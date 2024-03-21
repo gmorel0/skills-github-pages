@@ -1,4 +1,5 @@
 theme: minima
+title: Test title
 email: "example@mail.com"
 defaults:
   - scope:
